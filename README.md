@@ -23,4 +23,4 @@ Welcome! This repository contains my end-to-end Machine Learning projects, focus
 - **Tools:** GitHub, Git
 
 ---
-*Created with 💻 and ☕ by [Your Name]*
+*Created with 💻 and ☕ by Taijas Singh*
